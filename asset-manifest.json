@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/HsinYuChen/static/js/main.61904d37.js",
+    "main.js": "/HsinYuChen/static/js/main.5d14f3b5.js",
     "static/media/night.jpg": "/HsinYuChen/static/media/night.656da856320e52eb5139.jpg",
     "static/media/sun.jpg": "/HsinYuChen/static/media/sun.ed1ac1856e357e63d4dd.jpg",
     "static/media/a2.jpg": "/HsinYuChen/static/media/a2.c877473ed119f47f20e7.jpg",
     "static/media/a1.jpg": "/HsinYuChen/static/media/a1.468bf5bd979d1c79446e.jpg",
     "static/media/a3.jpg": "/HsinYuChen/static/media/a3.6e63a42d3725747b33ef.jpg",
     "index.html": "/HsinYuChen/index.html",
-    "main.61904d37.js.map": "/HsinYuChen/static/js/main.61904d37.js.map"
+    "main.5d14f3b5.js.map": "/HsinYuChen/static/js/main.5d14f3b5.js.map"
   },
   "entrypoints": [
-    "static/js/main.61904d37.js"
+    "static/js/main.5d14f3b5.js"
   ]
 }
